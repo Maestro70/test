@@ -1,2 +1,2 @@
 # test
-Hello GitBash
+Hello
