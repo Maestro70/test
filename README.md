@@ -1,3 +1,3 @@
 # test
 Hello
-hi all
+hi from master!
